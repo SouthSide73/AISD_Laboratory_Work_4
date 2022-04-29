@@ -133,4 +133,4 @@ try:
     print("Program time: " + str(result) + " seconds.")
 
 except ValueError:
-    print("\nЭто не число. Введите число без сторонних символов.")
+    print("\nЭто не целое число. Введите число без сторонних символов.")
